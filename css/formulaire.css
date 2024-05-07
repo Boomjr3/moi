@@ -1,0 +1,91 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: serif;
+    background-color: #64737c;
+}
+.nom{
+    margin: 1%;
+}
+.prenom{
+    margin: 1%;
+}
+.Date_naissance{
+    margin: 1%;
+}
+.Email{
+    margin: 1%;
+}
+.Sexe{
+    margin: 1%;
+}
+.ville{
+    margin: 1%;
+}
+.question{
+    margin: 1%;
+}
+.button{
+    margin: 1%;
+}
+span{
+    position: relative;
+    font-size: 22px;
+}
+input[type="text"]{
+    width: 55%;
+    text-align: center;
+    font-size: 19px;
+}
+input[type="date"]{
+    width: 55%;
+    text-align: center;
+    font-size: 19px;
+}
+input[type="email"]{
+    width: 55%;
+    text-align: center;
+    font-size: 19px;
+}
+input[type="reset"]{
+    width: 25%;
+    text-align: center;
+    font-size: 19px;
+}
+select{
+    width: 55%;
+    text-align: center;
+    font-size: 19px;
+}
+.box{
+    box-shadow: 1px 1px 1px 1px rgba(0, 0 ,0 , 0.5);
+    width: 35%;
+    padding: 15px;
+    height: 525px;
+    margin: 5%;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    width: 25%;
+    text-align: center;
+    font-size: 19px;
+}
+.title{
+    text-decoration: underline;
+    font-size: 25px;
+    position: relative;
+    top: 35px;
+    left: 200px;
+}
+.title1{
+    font-size: 15px;
+    position: relative;
+    top: 68px;
+    margin: 2px;
+    left: -123px;
+    text-align: center;
+}
